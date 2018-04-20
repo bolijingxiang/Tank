@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tank of Wars Two", "Tank of Wars Two.csproj", "{B85887AC-24FA-6B0F-A9A6-BDC955915DF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tank of Wars Two.Plugins", "Tank of Wars Two.Plugins.csproj", "{68E42C8F-54E9-DFF1-B9BB-A31BBB702F98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tank of Wars Two.Editor", "Tank of Wars Two.Editor.csproj", "{304FAB97-FDD6-AB6C-502D-862FF98F3314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B85887AC-24FA-6B0F-A9A6-BDC955915DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85887AC-24FA-6B0F-A9A6-BDC955915DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85887AC-24FA-6B0F-A9A6-BDC955915DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85887AC-24FA-6B0F-A9A6-BDC955915DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E42C8F-54E9-DFF1-B9BB-A31BBB702F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E42C8F-54E9-DFF1-B9BB-A31BBB702F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E42C8F-54E9-DFF1-B9BB-A31BBB702F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E42C8F-54E9-DFF1-B9BB-A31BBB702F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{304FAB97-FDD6-AB6C-502D-862FF98F3314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304FAB97-FDD6-AB6C-502D-862FF98F3314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304FAB97-FDD6-AB6C-502D-862FF98F3314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304FAB97-FDD6-AB6C-502D-862FF98F3314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
